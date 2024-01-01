@@ -5,7 +5,7 @@
     "platforms": {
       "windows-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUm9hc2hNUzdJOFVZY3htOTRxU2lsb2ZvTlpWMjdabjZSc294T2QvaGdtK1RDbmJ6RVJpd2MyMlNKWWhNeStCdEFaNlhRUVJrUGxiOUQ5M1lnYXlPQ1ZtVDM5d2gyMkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MTE2MjI5CWZpbGU6d2FyZGVuXzEuMC4xX3g2NC1zZXR1cC5uc2lzLnppcApWUXE2cTZqakRWRlZ4bCsxTi8zQWFCUUIzL3pIamt3ZjllcDlSUGJKdkl2TlIxV0NJT05yQmt1TXlSdWxRM3VQQ3dGaEROalhSTXZHZGR5VDNuTHJCQT09Cg==",
-        "url": "https://github.com/romby1/Warden/releases/download/v1.0.1/app-x64-setup.nsis.zip"
+        "url": "https://github.com/romby1/Warden/releases/download/v1.0.1/warden_1.0.1_x64-setup.nsis.zip"
       }
     }
   }

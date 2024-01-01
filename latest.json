@@ -4,7 +4,7 @@
     "pub_date": "2020-06-22T19:25:57Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "Content of app-setup.nsis.sig",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUm9hc2hNUzdJOGVSakZ6VTNXWjlwTTNjcEo5ZmtTd3FGeXR4Ky80UnEyeUNjWUFGbHd1aDdGTzNJNjNUeXdKTzl0WHFrSGtvT3krMmlsS0V5TU1aMFZuaUNaOUxTMHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MTExMzI3CWZpbGU6d2FyZGVuXzEuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApaMFNmZ0xZLzFsc2Z4dzFYQzgvMW5xWWdPdXpqOGNYUmNYZmh4NHhTMWhDNlgzbWNjbHRyWkcxUHV3UnRlT2E0TXZvQUY0TTFTbWtDQjg5REdydnBBZz09Cg==",
         "url": "https://github.com/romby1/Warden/releases/download/v1.0.0/app-x64-setup.nsis.zip"
       }
     }

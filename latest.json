@@ -1,11 +1,11 @@
 {
-    "version": "v1.3.2",
+    "version": "v1.3.3",
     "notes": "Stable version",
     "pub_date": "2020-06-22T19:29:57Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUm9hc2hNUzdJOGZHakh0N1Jxb25YTUhsdE9GVFdrZU5LRXByTzhVK2JqaGxUd2pxNXhxWmhyT3NJYTJtUlVRNGtaY2dmV3BvUno3REFxODU1RmNEQXVSN2NTSENyTmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MjE4MjE4CWZpbGU6d2FyZGVuXzEuMy4yX3g2NC1zZXR1cC5uc2lzLnppcAoyOVpOY0F3ejZpbUJ6dGh2RGRXMzVXbCsyUW80TkFhekFCNngzUzEyRXN1S2pmNHRaSDVQMTl3ZURsODFWUzZzUFllT3hERUcxa1RkdGQ1L2FkVXpDUT09Cg==",
-        "url": "https://github.com/romby1/Warden/releases/download/v1.3.2/warden_1.3.2_x64-setup.nsis.zip"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUm9hc2hNUzdJOFltcVJrZGlKNTREZWFrQmgwbWxjc3RBSGpPZDRFVzVneitEMU9OMW5uT3VVSUdIMWlJdVluck5EZlBYZjZPWTRDZWtkY3dSN1hyS3B2WXoxdllNM1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4MjE5MTQ0CWZpbGU6d2FyZGVuXzEuMy4zX3g2NC1zZXR1cC5uc2lzLnppcApONVROOFBPZ2tVaGl6bFAvdVQ1L2RUTUtkN1FMODBDTlljM2x5S1NzRGpERzdBaWdQT2JwRExjUWUwYUZXWDhDL01kaDk1aTg4T3pibUcyZXZjakdCZz09Cg==",
+        "url": "https://github.com/romby1/Warden/releases/download/v1.3.3/warden_1.3.3_x64-setup.nsis.zip"
       }
     }
   }
